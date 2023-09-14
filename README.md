@@ -1,4 +1,4 @@
-### Hi there 👋
+# Sanghyun Cho - Korbit
 
 <!--
 **sanghyuncho-korbit/sanghyuncho-korbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
